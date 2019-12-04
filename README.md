@@ -1,1 +1,3 @@
-# Jupyter and Python personal set of modules
+# Jupyter and Python 
+
+Personal set of modules
