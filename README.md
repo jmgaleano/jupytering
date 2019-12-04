@@ -1,2 +1,1 @@
-# jupytering
-TensorFlow personal set of modules
+# Jupyter and Python personal set of modules
